@@ -1,2 +1,2 @@
 # WpfMasterTabControl
-asdf
+Mastering Wpf Tab Control. 
